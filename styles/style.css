@@ -1594,4 +1594,16 @@ Stylesheet: プリンタのみに適用
 .blue {
   color: #6697f3;
 }
+
+.air2 {
+  height: 80px;
+}
+
+.mini {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
 /*# sourceMappingURL=style.css.map */
