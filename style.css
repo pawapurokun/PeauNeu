@@ -1534,6 +1534,10 @@ body {
   color: #3d270a;
 }
 
+#container {
+  background-color: #f5eedc !important;
+}
+
 .map {
   text-align: center;
 }
