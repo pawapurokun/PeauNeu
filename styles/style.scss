@@ -31,45 +31,63 @@
 
 @media print {
   @import "breakpoints/print";
-}.map {
+}
+body{
+  color: rgb(61, 39, 10);
+}
+.map {
   text-align: center;
-}.pd-top {
+}
+.pd-top {
   padding-top: 30px;
-}.popular{
+}
+.popular {
   background-color: #ffffff;
-}.red{
-  color:rgb(255, 82, 82);
-}.pd-top2{
+}
+.red {
+  color: rgb(255, 82, 82);
+}
+.pd-top2 {
   padding-top: 100px;
-}.img-width{
-  height:40%;
-  width:40%;
-  margin:30px 0;
-}.img-width1{
-  height:52%;
-  width:52%;
-  margin:30px 0;
-}.horizon{
-  display:flex;
+}
+.img-width {
+  height: 40%;
+  width: 40%;
+  margin: 30px 0;
+}
+.img-width1 {
+  height: 52%;
+  width: 52%;
+  margin: 30px 0;
+}
+.horizon {
+  display: flex;
   justify-content: space-around;
   background-color: rgb(255, 255, 255);
-}.air{
-  height:50px;
-}.mobile-menu{
-  top:10px;
-}.green{
-  color:rgb(35, 206, 35);
-}.top{
-  top:200px;
-}.big{
+}
+.air {
+  height: 50px;
+}
+.mobile-menu {
+  top: 10px;
+}
+.green {
+  color: rgb(35, 206, 35);
+}
+.top {
+  top: 200px;
+}
+.big {
   font-size: 20px;
-}.blue{
-  color:rgb(102, 151, 243);
 }
-.air2{
-  height:80px;
+.blue {
+  color: rgb(102, 151, 243);
 }
-.mini{
+.air2 {
+  height: 80px;
+}
+.mini {
   display: flex;
   justify-content: space-around;
 }
+
