@@ -1614,4 +1614,20 @@ body {
   -ms-flex-pack: distribute;
       justify-content: space-around;
 }
+
+.under-line {
+  border-bottom: solid 1px black;
+}
+
+.logo__img {
+  width: 3.5em;
+}
+
+.logo__stay {
+  line-height: 120px;
+}
+
+.logo__world {
+  line-height: 120px;
+}
 /*# sourceMappingURL=style.css.map */

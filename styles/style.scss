@@ -32,10 +32,10 @@
 @media print {
   @import "breakpoints/print";
 }
-body{
+body {
   color: rgb(61, 39, 10);
 }
-#container{
+#container {
   background-color: rgb(245, 238, 220) !important;
 }
 .map {
@@ -93,4 +93,15 @@ body{
   display: flex;
   justify-content: space-around;
 }
-
+.under-line {
+  border-bottom: solid 1px black;
+}
+.logo__img {
+  width: 3.5em;
+}
+.logo__stay{
+  line-height: 120px;
+}
+.logo__world{
+  line-height: 120px;
+}
